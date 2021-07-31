@@ -1,0 +1,17 @@
+	Welcome to Supermart
+
+ Bill Number:4102
+ Customer Name:Tanya
+ Phone Number: 676582758
+===================================
+ Products		QTY	 Price
+===================================
+ Face Cream		1	120
+ Sugar		        1	56
+ Sun glasses		1	890
+-----------------------------------
+ Cosmetic Tax		Rs. 6.0
+ Grocery Tax		Rs. 5.6
+ Fashion Tax		Rs. 53.4
+ Total Bill :		 Rs. 1131.0
+-----------------------------------

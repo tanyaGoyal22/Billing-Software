@@ -1,0 +1,15 @@
+	Welcome to Supermart
+
+ Bill Number:6126
+ Customer Name:tanya
+ Phone Number: 4562164
+===================================
+ Products		QTY	 Price
+===================================
+ Cooking oil		1	135
+ Luggage		1	1060
+-----------------------------------
+ Grocery Tax		Rs. 13.5
+ Fashion Tax		Rs. 63.6
+ Total Bill :		 Rs. 1272.1
+-----------------------------------

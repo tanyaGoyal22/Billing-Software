@@ -1,0 +1,17 @@
+	Welcome to Supermart
+
+ Bill Number:3622
+ Customer Name:tanya
+ Phone Number: 676879878
+===================================
+ Products		QTY	 Price
+===================================
+ Hair Oil		1	60
+ Wheat flour		1	180
+ Jewellery 		1	550
+-----------------------------------
+ Cosmetic Tax		Rs. 3.0
+ Grocery Tax		Rs. 18.0
+ Fashion Tax		Rs. 33.0
+ Total Bill :		 Rs. 844.0
+-----------------------------------

@@ -1,0 +1,15 @@
+	Welcome to Supermart
+
+ Bill Number:9315
+ Customer Name:Tanya
+ Phone Number: 678798890
+===================================
+ Products		QTY	 Price
+===================================
+ Biscuits		1	30
+ Watch		1	1000
+-----------------------------------
+ Grocery Tax		Rs. 3.0
+ Fashion Tax		Rs. 60.0
+ Total Bill :		 Rs. 1093.0
+-----------------------------------
